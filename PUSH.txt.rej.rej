@@ -1,8 +1,8 @@
 diff a/PUSH.txt.rej b/PUSH.txt.rej	(rejected hunks)
-@@ -0,0 +1,6 @@
-+diff a/PUSH.txt b/PUSH.txt	(rejected hunks)
-+@@ -1 +0,2 @@
-+-push
-+\ No newline at end of file
-++push
-++023
+@@ -1,6 +0,0 @@
+-diff a/PUSH.txt b/PUSH.txt	(rejected hunks)
+-@@ -1 +0,2 @@
+--push
+-\ No newline at end of file
+-+push
+-+023
